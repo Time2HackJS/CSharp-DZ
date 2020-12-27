@@ -1,0 +1,13 @@
+F:\HW\HW_V\obj\Debug\netcoreapp3.1\HW_V.csprojAssemblyReference.cache
+F:\HW\HW_V\obj\Debug\netcoreapp3.1\HW_V.AssemblyInfoInputs.cache
+F:\HW\HW_V\obj\Debug\netcoreapp3.1\HW_V.AssemblyInfo.cs
+F:\HW\HW_V\obj\Debug\netcoreapp3.1\HW_V.csproj.CoreCompileInputs.cache
+F:\HW\HW_V\bin\Debug\netcoreapp3.1\HW_V.exe
+F:\HW\HW_V\bin\Debug\netcoreapp3.1\HW_V.deps.json
+F:\HW\HW_V\bin\Debug\netcoreapp3.1\HW_V.runtimeconfig.json
+F:\HW\HW_V\bin\Debug\netcoreapp3.1\HW_V.runtimeconfig.dev.json
+F:\HW\HW_V\bin\Debug\netcoreapp3.1\HW_V.dll
+F:\HW\HW_V\bin\Debug\netcoreapp3.1\HW_V.pdb
+F:\HW\HW_V\obj\Debug\netcoreapp3.1\HW_V.dll
+F:\HW\HW_V\obj\Debug\netcoreapp3.1\HW_V.pdb
+F:\HW\HW_V\obj\Debug\netcoreapp3.1\HW_V.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fregat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fregat\\.nuget\\packages"
+    ]
+  }
+}
